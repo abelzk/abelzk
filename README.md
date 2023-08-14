@@ -85,13 +85,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know ⚙️</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,php,bootstrap,c,cpp,css,tailwind,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,redis,postman,py,react,redux,tailwind,ts,vscode,blender,jquery,wordpress,figma,go,ruby,qt&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,flutter,php,bootstrap,c,cpp,css,github,html,idea,java,js,mysql,nextjs,postman,py,vscode,jquery,figma,photoshop&perline=10" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🙌</h2></summary>
   </ul>
 </div>
 
