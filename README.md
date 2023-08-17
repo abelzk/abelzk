@@ -26,7 +26,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Code is poetry, poetry is code.</h2></summary>
+    <summary><h2 style="display: inline-block">Don’t comment bad code—rewrite it.</h2></summary>
   </ul>
 </div>
 
