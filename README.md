@@ -18,7 +18,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[contribution.svg"](https://github.com/abelzk/abelzk/blob/output/github-contribution-grid-snake.gif))
+  <img  src="contribution.svg")
        alt="snake" /></a>
 </div>
 
