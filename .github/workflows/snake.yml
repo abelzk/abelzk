@@ -1,5 +1,4 @@
-name: Generate Contribution Graph
-
+name: Generate
 on:
   push:
     branches:
@@ -15,18 +14,7 @@ jobs:
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
-          # GitHub user name to read the contribution graph from (**required**).
-          # Use action context variable `github.repository_owner` or specify a user directly.
           github_user_name: ${{ github.repository_owner }}
-
-          # List of files to generate, each on a new line.
-          #
-          # Supported options:
-          # - palette:     Preset color scheme. Choices are [github, github-dark, github-light].
-          # - color_snake: Color of the snake.
-          # - color_dots:  Comma-separated list of dot colors. 
-          #                The first color represents 0 contributions, with the remaining colors indicating increasing contributions.
-          #                Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
