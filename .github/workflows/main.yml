@@ -20,7 +20,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
           # List of files to generate, each on a new line.
-          # Customize each output with query string options.
           #
           # Supported options:
           # - palette:     Preset color scheme. Choices are [github, github-dark, github-light].
