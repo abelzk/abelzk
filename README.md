@@ -19,7 +19,7 @@
 <!--- snake -->
 <div align="center">
   <img  src="contribution.svg")
-       alt="snake" /></a>
+       alt="Contribution Grid snake animation" /></a>
 </div>
 
 
